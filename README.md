@@ -1,6 +1,10 @@
 cocoapods.vim
 =============
 
+> :warning: cocoapods.vim is **deprecated**. Use [vim-ruby][] instead.
+
+  [vim-ruby]: https://github.com/vim-ruby/vim-ruby
+
 cocoapods.vim provides syntax highlighting for [CocoaPods][].
 
   [CocoaPods]: http://cocoapods.org/
